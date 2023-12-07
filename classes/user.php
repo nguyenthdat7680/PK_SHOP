@@ -87,7 +87,7 @@ class user
 				$mail->Port       = 587;
 				$mail->Host       = "smtp.gmail.com";
 				$mail->Username   = "nguyenthdat7680@gmail.com";
-				$mail->Password   = "udfhechjekxifivj";
+				$mail->Password   = "qlkgnpthfqamadms";
 
 				$mail->IsHTML(true);
 				$mail->CharSet = 'UTF-8';
@@ -293,7 +293,7 @@ class user
 				$mail->Port       = 587;
 				$mail->Host       = "smtp.gmail.com";
 				$mail->Username   = "nguyenthdat7680@gmail.com";
-				$mail->Password   = "udfhechjekxifivj";
+				$mail->Password   = "qlkgnpthfqamadms";
 
 				$mail->IsHTML(true);
 				$mail->CharSet = 'UTF-8';
